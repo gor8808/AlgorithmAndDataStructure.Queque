@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\Gor\C#\MIC\AlgorithmAndDataStructure.Queque\AlgorithmAndDataStructure.Queque\bin\Debug\netcoreapp2.2\AlgorithmAndDataStructure.Queque.deps.json
+C:\Users\Dell\Desktop\Gor\C#\MIC\AlgorithmAndDataStructure.Queque\AlgorithmAndDataStructure.Queque\bin\Debug\netcoreapp2.2\AlgorithmAndDataStructure.Queque.dll
+C:\Users\Dell\Desktop\Gor\C#\MIC\AlgorithmAndDataStructure.Queque\AlgorithmAndDataStructure.Queque\bin\Debug\netcoreapp2.2\AlgorithmAndDataStructure.Queque.pdb
+C:\Users\Dell\Desktop\Gor\C#\MIC\AlgorithmAndDataStructure.Queque\AlgorithmAndDataStructure.Queque\obj\Debug\netcoreapp2.2\AlgorithmAndDataStructure.Queque.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\AlgorithmAndDataStructure.Queque\AlgorithmAndDataStructure.Queque\obj\Debug\netcoreapp2.2\AlgorithmAndDataStructure.Queque.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\AlgorithmAndDataStructure.Queque\AlgorithmAndDataStructure.Queque\obj\Debug\netcoreapp2.2\AlgorithmAndDataStructure.Queque.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Gor\C#\MIC\AlgorithmAndDataStructure.Queque\AlgorithmAndDataStructure.Queque\obj\Debug\netcoreapp2.2\AlgorithmAndDataStructure.Queque.dll
+C:\Users\Dell\Desktop\Gor\C#\MIC\AlgorithmAndDataStructure.Queque\AlgorithmAndDataStructure.Queque\obj\Debug\netcoreapp2.2\AlgorithmAndDataStructure.Queque.pdb

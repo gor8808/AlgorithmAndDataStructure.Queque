@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Wpf.Queue/1.0.0": {
+        "dependencies": {
+          "AlgorithmAndDataStructure.Queque": "1.0.0"
+        },
+        "runtime": {
+          "Wpf.Queue.dll": {}
+        }
+      },
+      "AlgorithmAndDataStructure.Queque/1.0.0": {
+        "runtime": {
+          "AlgorithmAndDataStructure.Queque.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wpf.Queue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AlgorithmAndDataStructure.Queque/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
